@@ -2,46 +2,47 @@ class DynamicArray {
 
   constructor(defaultSize = 4) {
 
-    // Your code here 
+    // Your code here
   }
 
   read(index) {
 
-    // Your code here 
+    // Your code here
   }
 
   push(val) {
 
-    // Your code here 
+    // Your code here
   }
 
 
   pop() {
 
-    // Your code here 
+    // Your code here
   }
 
   shift() {
 
-    // Your code here 
+    // Your code here
   }
 
   unshift(val) {
 
-    // Your code here 
+    // Your code here
   }
 
   indexOf(val) {
 
-    // Your code here 
+    // Your code here
   }
 
   resize() {
 
-    // Your code here 
+    // Your code here
   }
 
 }
 
 
 module.exports = DynamicArray;
+// test
